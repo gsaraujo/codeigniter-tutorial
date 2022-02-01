@@ -68,3 +68,9 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+# Improvements
+- [ ] Add some css
+- [ ] Add js to make the pages more friendly
+- [ ] Add delete on news
+- [ ] Add edit on news
